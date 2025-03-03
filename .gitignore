@@ -5,10 +5,7 @@
 /dist/
 /include/
 /lib/
-/models/
-/resources/
-/ui/
-/utils/
+
 
 # Archivos a ignorar 12344
 asd.csv
