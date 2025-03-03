@@ -1,8 +1,18 @@
-bin
-build
-config/
-dist
-include
-lib
-.gitignore
-#asd
+# Carpetas a ignorar
+/bin/
+/build/
+/config/
+/dist/
+/include/
+/lib/
+/models/
+/resources/
+/ui/
+/utils/
+
+# Archivos a ignorar
+asd.csv
+fitapp.db
+gym.db
+main.spec
+pyenv.cfg
