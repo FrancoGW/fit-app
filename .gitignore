@@ -10,7 +10,7 @@
 /ui/
 /utils/
 
-# Archivos a ignorar
+# Archivos a ignorar 123
 asd.csv
 fitapp.db
 gym.db
