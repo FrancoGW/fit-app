@@ -1,0 +1,1 @@
+([('main', '/Users/francogaray/Documents/fitapp/dist/main', 'EXECUTABLE')],)
