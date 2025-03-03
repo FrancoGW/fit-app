@@ -1,6 +1,6 @@
 # FITAPP
 
-![FITAPP Logo](fitapp/logo.png)
+![FITAPP Logo](FITAPP/logo.png)
 
 ## Sistema Integral de Gestión para Gimnasios
 
